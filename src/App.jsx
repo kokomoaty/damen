@@ -33,7 +33,7 @@ class App extends Component {
       originalPrice: 3500,
       description: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
       rating: 5,
-      image: '/public/images/image1.png',
+      image: '/images/image1.png',
     };
     return (
       <>

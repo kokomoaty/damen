@@ -4,34 +4,34 @@
         "title": "Action Camera",
         "rating": 3.5,
         "price": 509,
-        "image": "/public/images/image2.png"
+        "image": "/images/image2.png"
     },
     {
         "id": 2,
         "title": "Keyboard",
         "rating": 5.0,
         "price": 873,
-        "image": "/public/images/image2.png"
+        "image": "/images/image2.png"
     },
     {
         "id": 3,
         "title": "Camera",
         "rating": 4.4,
         "price": 619,
-        "image": "/public/images/image2.png"
+        "image": "/images/image2.png"
     },
     {
         "id": 4,
         "title": "VR Headset",
         "rating": 3.9,
         "price": 306,
-        "image": "/public/images/image2.png"
+        "image": "/images/image2.png"
     },
     {
         "id": 5,
         "title": "Keyboard",
         "rating": 3.3,
         "price": 261,
-        "image": "/public/images/image2.png"
+        "image": "/images/image2.png"
     }
 ]
